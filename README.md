@@ -13,7 +13,7 @@ Official public release of the signed APK for the Matrix-inspired live wallpaper
 
 - Matrix-style animated live wallpaper
 - Built with Kotlin & Jetpack Compose
-- Optimized for foldables and OLED screens
+- Optimized for OLED screens
 - No ads, no permissions required
 
 > Designed by Tyler Howard @ Howard IT Solutions  
